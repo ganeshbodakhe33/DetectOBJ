@@ -105,12 +105,12 @@ uvicorn api:app --reload
 - Streamlit
 - FastAPI
 - NumPy
-
+ 
 --------------------------------------------------
 
 ## 🚀 Future Improvements
 
-- YOLOv8 integration (higher accuracy)
+- YOLOv8 integration
 - Object tracking (DeepSORT)
 - Cloud deployment (AWS/GCP)
 - React frontend dashboard
