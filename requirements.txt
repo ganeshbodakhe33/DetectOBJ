@@ -1,0 +1,6 @@
+opencv-python
+streamlit
+fastapi
+uvicorn
+numpy
+matplotlib
